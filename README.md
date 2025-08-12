@@ -3,15 +3,12 @@
 A **simple** and **beautiful** Flutter application for browsing and buying sneakers.\
 Built with **clean navigation**, **state management**, and an intuitive UI.
 
----
-
 ## 📱 Screenshots
 
 <p float="left">
   <img src="lib/images/screenshot_1.png" width="45%" />
   <img src="lib/images/screenshot_2.png" width="45%" />
 </p>
----
 
 ## 🛠 Features
 
@@ -20,8 +17,6 @@ Built with **clean navigation**, **state management**, and an intuitive UI.
 - 🛒 **Sneaker Catalog** with detailed product tiles
 - ➕➖ **Add & Remove** items from the cart
 - 🔄 **Provider-based State Management** for app-wide updates
-
----
 
 ## 📂 Project Structure
 
@@ -41,8 +36,6 @@ lib/
 │   ├── shoe.dart
 │   └── cart.dart
 ```
-
----
 
 ## 🚀 Getting Started
 
