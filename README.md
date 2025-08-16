@@ -42,7 +42,7 @@ lib/
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/PyWise/sneaker-shop.git
+   git clone https://github.com/PyWise/sneaker-shop-app.git
    cd sneaker-shop
    ```
 
