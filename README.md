@@ -43,7 +43,7 @@ lib/
 
    ```bash
    git clone https://github.com/PyWise/sneaker-shop-app.git
-   cd sneaker-shop
+   cd sneaker-shop-app
    ```
 
 2. **Install dependencies**
